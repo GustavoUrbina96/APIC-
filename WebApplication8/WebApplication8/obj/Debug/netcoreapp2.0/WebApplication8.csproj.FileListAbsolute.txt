@@ -1,0 +1,11 @@
+C:\Tareas\APIS\WebApplication8\WebApplication8\bin\Debug\netcoreapp2.0\WebApplication8.deps.json
+C:\Tareas\APIS\WebApplication8\WebApplication8\bin\Debug\netcoreapp2.0\WebApplication8.runtimeconfig.json
+C:\Tareas\APIS\WebApplication8\WebApplication8\bin\Debug\netcoreapp2.0\WebApplication8.runtimeconfig.dev.json
+C:\Tareas\APIS\WebApplication8\WebApplication8\bin\Debug\netcoreapp2.0\WebApplication8.dll
+C:\Tareas\APIS\WebApplication8\WebApplication8\bin\Debug\netcoreapp2.0\WebApplication8.pdb
+C:\Tareas\APIS\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.0\WebApplication8.csprojAssemblyReference.cache
+C:\Tareas\APIS\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.0\WebApplication8.csproj.CoreCompileInputs.cache
+C:\Tareas\APIS\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.0\WebApplication8.AssemblyInfoInputs.cache
+C:\Tareas\APIS\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.0\WebApplication8.AssemblyInfo.cs
+C:\Tareas\APIS\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.0\WebApplication8.dll
+C:\Tareas\APIS\WebApplication8\WebApplication8\obj\Debug\netcoreapp2.0\WebApplication8.pdb
